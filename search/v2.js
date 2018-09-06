@@ -19,7 +19,19 @@
 //   '</script>');
   
 document.write(
-  '<script src="https://imin-api-docs.firebaseapp.com/swagger-ui.js" type="text/javascript"></script>');
+  '<script src="https://imin-api-docs.firebaseapp.com/swagger-ui.js" type="text/javascript"></script>\n' +
+  '<script src="https://imin-api-docs.firebaseapp.com/lib/jquery-1.8.0.min.js" type="text/javascript"></script>\n' +
+  '<script src="https://imin-api-docs.firebaseapp.com/lib/jquery.slideto.min.js" type="text/javascript"></script>\n' +
+  '<script src="https://imin-api-docs.firebaseapp.com/lib/jquery.wiggle.min.js" type="text/javascript"></script>\n' +
+  '<script src="https://imin-api-docs.firebaseapp.com/lib/jquery.ba-bbq.min.js" type="text/javascript"></script>\n' +
+  '<script src="https://imin-api-docs.firebaseapp.com/lib/handlebars-2.0.0.js" type="text/javascript"></script>\n' +
+  '<script src="https://imin-api-docs.firebaseapp.com/lib/underscore-min.js" type="text/javascript"></script>\n' +
+  '<script src="https://imin-api-docs.firebaseapp.com/lib/backbone-min.js" type="text/javascript"></script>\n' +
+  '<script src="https://imin-api-docs.firebaseapp.com/swagger-ui.js" type="text/javascript"></script>\n' +
+  '<script src="https://imin-api-docs.firebaseapp.com/lib/highlight.7.3.pack.js" type="text/javascript"></script>\n' +
+  '<script src="https://imin-api-docs.firebaseapp.com/lib/marked.js" type="text/javascript"></script>\n' +
+  '<script src="https://imin-api-docs.firebaseapp.com/lib/swagger-oauth.js" type="text/javascript"></script>');
+
 document.write(
   '<div id="imin-swagger-ui-embed" style="width:100%">\n' +
   '</div>');
