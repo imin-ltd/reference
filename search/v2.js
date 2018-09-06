@@ -6,7 +6,7 @@ document.write(
 document.write(
   '<script>\n' +
   '  // Build a system\n' +
-  '  var window.ui = window.SwaggerUIBundle({\n' +
+  '  var ui = window.SwaggerUIBundle({\n' +
   '    url: "https://imin-platform-search-te-pr-188.herokuapp.com/v2/spec.yaml",\n' +
   '    dom_id: "#imin-swagger-ui-embed",\n' +
   '    presets: [\n' +
@@ -15,5 +15,6 @@ document.write(
   '    ],\n' +
   '    layout: "StandaloneLayout"\n' +
   '  });\n' +
+  '  window.iminSwaggerUiEmbed = ui;\n' +
   '</script>');
   
