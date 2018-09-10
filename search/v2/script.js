@@ -13,6 +13,7 @@ document.write(
   '    url: "https://imin-platform-search-te-pr-196.herokuapp.com/v2/spec.yaml",\n' +
 // '    url: "https://search.imin.co/v2/spec.yaml",\n' +
   '    dom_id: "#imin-swagger-ui-embed",\n' +
+  '    enableCORS: false,\n' +
   '    presets: [\n' +
   '      SwaggerUIBundle.presets.apis,\n' +
   '      SwaggerUIBundle.SwaggerUIStandalonePreset\n' +
