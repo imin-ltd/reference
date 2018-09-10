@@ -13,7 +13,7 @@ document.write(
   '      SwaggerUIBundle.presets.apis,\n' +
   '      SwaggerUIBundle.SwaggerUIStandalonePreset\n' +
   '    ],\n' +
-  '    layout: "StandaloneLayout"\n' +
+//   '    layout: "StandaloneLayout"\n' +
   '  });\n' +
   '  window.iminSwaggerUiEmbed = ui;\n' +
   '</script>');
