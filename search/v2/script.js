@@ -7,7 +7,7 @@ document.write(
   '<script>\n' +
   '  // Build a system\n' +
   '  var ui = window.SwaggerUIBundle({\n' +
-  '    url: "https://imin-platform-search-te-pr-188.herokuapp.com/v2/spec.yaml",\n' +
+  '    url: "https://search.imin.co/v2/spec.yaml",\n' +
   '    dom_id: "#imin-swagger-ui-embed",\n' +
   '    presets: [\n' +
   '      SwaggerUIBundle.presets.apis,\n' +
@@ -43,7 +43,7 @@ document.write(
 //   '      window.SwaggerTranslator.translate();\n' +
 //   '    }\n' +
 //   '    window.swaggerUi = new SwaggerUi({\n' +
-//   '      url: "https://imin-platform-search-te-pr-188.herokuapp.com/v2/spec.yaml",\n' +
+//   '      url: "https://search.imin.co/v2/spec.yaml",\n' +
 //   '      dom_id: "imin-swagger-ui-embed",\n' +
 //   '      supportedSubmitMethods: ["get"],\n' +
 //   '      onComplete: function(swaggerApi, swaggerUi){\n' +
