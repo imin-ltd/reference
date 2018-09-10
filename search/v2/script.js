@@ -1,5 +1,5 @@
 document.write(
-  '<script src="//unpkg.com/swagger-ui-dist@3/swagger-ui-bundle.js"></script>');
+  '<script src="//imin-ltd.github.io/swagger-ui-embed/lib/swagger-ui-bundle.js"></script>');
 document.write(
   '<div id="imin-swagger-ui-embed" style="width:100%">\n' +
   '</div>');
