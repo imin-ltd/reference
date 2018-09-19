@@ -20,3 +20,4 @@ document.write(
   '  });\n' +
   '  window.iminSwaggerUiEmbed = ui;\n' +
   '</script>');
+  
