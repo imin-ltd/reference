@@ -10,7 +10,7 @@ document.write(
   '<script>\n' +
   '  // Build a system\n' +
   '  var ui = window.SwaggerUIBundle({\n' +
-  '    url: "https://imin-platform-search-te-pr-200.herokuapp.com/v1/spec.yaml",\n' +
+  '    url: "https://search-test.imin.co/v1/spec.yaml",\n' +
   '    dom_id: "#imin-swagger-ui-embed",\n' +
   '    enableCORS: false,\n' +
   '    presets: [\n' +
