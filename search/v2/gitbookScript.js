@@ -7,4 +7,4 @@ document.write(
   '  }\n' +
   '</style>');
 document.write(
-  '<script src="//imin-ltd.github.io/swagger-ui-embed/search/v2/script.js"></script>');
+  '<script src="//imin-ltd.github.io/reference/search/v2/script.js"></script>');
