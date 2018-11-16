@@ -1,1 +1,1 @@
-# swagger-ui-embed
+# imin reference documentation
