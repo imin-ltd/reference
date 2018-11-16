@@ -10,7 +10,7 @@ document.write(
   '<script>\n' +
   '  // Build a system\n' +
   '  var ui = window.SwaggerUIBundle({\n' +
-  '    url: "https://search.imin.co/v2/spec.yaml",\n' +
+  '    url: "https://search-sandbox.imin.co/events-api/v2/spec.yaml",\n' +
   '    dom_id: "#imin-swagger-ui-embed",\n' +
   '    enableCORS: false,\n' +
   '    presets: [\n' +
@@ -20,4 +20,3 @@ document.write(
   '  });\n' +
   '  window.iminSwaggerUiEmbed = ui;\n' +
   '</script>');
-  
