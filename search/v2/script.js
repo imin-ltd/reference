@@ -1,5 +1,5 @@
 document.write(
-  '<script src="//imin-ltd.github.io/swagger-ui-embed/lib/swagger-ui-bundle.js"></script>');
+  '<script src="//imin-ltd.github.io/reference/lib/swagger-ui-bundle.js"></script>');
 document.write(
   // surely there's somewhere else we can get these styles
   '<link rel="stylesheet" type="text/css" href="https://petstore.swagger.io/swagger-ui.css">');
